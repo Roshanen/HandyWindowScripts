@@ -13,8 +13,8 @@ setlocal enabledelayedexpansion
         echo No files found
     )
     echo.
-)) > output.txt
-
-echo output.txt file ready
+))
 
 endlocal
+
+pause
